@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://www.bing.com/images/create/coding-website-background-minimalist/1-6761e6e41b7a47d6ab16f2ffa4f1a6e2?id=FU6lbKazgPaLBryfe1cZnA.RT4TWUJIo9uAfTF%2FkfjjuA&view=detailv2&idpp=genimg&thid=OIG3.6qxl2rNOgjJL1zWXIlVY&skey=lBPNW1iIvgs1YnQt9LV6uI60EOZNBfF375VOyWSYK3M&form=GCRIDP&ajaxhist=0&ajaxserp=0')
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
